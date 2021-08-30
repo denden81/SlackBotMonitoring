@@ -1,0 +1,34 @@
+2018-06-01 17:36:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Tools\SlackbotMonitoring\node_modules\node-windows\lib\wrapper.js --file C:\Tools\SlackbotMonitoring\app.js --log "Slackbot Monitoring wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-01 17:36:26 - Started 44872
+2018-06-04 09:57:21 - Stopping slackbotmonitoring.exe
+2018-06-04 09:57:22 - ProcessKill 44872
+2018-06-04 09:57:23 - Found child process: 22132 Name: conhost.exe
+2018-06-04 09:57:23 - Found child process: 33496 Name: node.exe
+2018-06-04 09:57:23 - Stopping process 22132
+2018-06-04 09:57:23 - Send SIGINT 22132
+2018-06-04 09:57:23 - SIGINT to 22132 failed - Killing as fallback
+2018-06-04 09:57:24 - Stopping process 33496
+2018-06-04 09:57:24 - Send SIGINT 33496
+2018-06-04 09:57:24 - SIGINT to 33496 failed - Killing as fallback
+2018-06-04 09:57:24 - Stopping process 44872
+2018-06-04 09:57:24 - Send SIGINT 44872
+2018-06-04 09:57:24 - SIGINT to 44872 failed - Killing as fallback
+2018-06-04 09:57:24 - Finished slackbotmonitoring.exe
+2018-06-05 23:11:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Tools\SlackbotMonitoring\node_modules\node-windows\lib\wrapper.js --file C:\Tools\SlackbotMonitoring\app.js --log "Slackbot Monitoring wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-05 23:11:52 - Started 44048
+2018-06-06 10:16:45 - Stopping slackbotmonitoring.exe
+2018-06-06 10:16:45 - ProcessKill 44048
+2018-06-06 10:16:45 - Found child process: 33888 Name: conhost.exe
+2018-06-06 10:16:45 - Found child process: 42408 Name: node.exe
+2018-06-06 10:16:46 - Stopping process 33888
+2018-06-06 10:16:46 - Send SIGINT 33888
+2018-06-06 10:16:46 - SIGINT to 33888 failed - Killing as fallback
+2018-06-06 10:16:46 - Stopping process 42408
+2018-06-06 10:16:46 - Send SIGINT 42408
+2018-06-06 10:16:46 - SIGINT to 42408 failed - Killing as fallback
+2018-06-06 10:16:46 - Stopping process 44048
+2018-06-06 10:16:46 - Send SIGINT 44048
+2018-06-06 10:16:46 - SIGINT to 44048 failed - Killing as fallback
+2018-06-06 10:16:46 - Finished slackbotmonitoring.exe
+2018-06-07 08:40:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Tools\SlackbotMonitoring\node_modules\node-windows\lib\wrapper.js --file C:\Tools\SlackbotMonitoring\app.js --log "Slackbot Monitoring wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-06-07 08:40:30 - Started 36584
